@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2999,
       "digest": "sha256:cf35e342d5440d95bef5e099b871c34a11e5205c6de092e61565e0f4a9dfec3a",
-      "download_count": 196,
+      "download_count": 197,
       "created_at": "2025-11-12T14:13:34Z",
       "updated_at": "2025-11-12T14:13:34Z",
       "browser_download_url": "https://github.com/JianZcar/FuzPad/releases/download/2.05.00/fuzpad-2.05.00.tar.gz"
