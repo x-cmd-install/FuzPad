@@ -4,7 +4,7 @@
 
 A minimalistic note management solution. Powered by fzf
 
-![FuzPad](https://repo.x-cmd.io/FuzPad.svg)
+![FuzPad](https://repo.x-cmd.io/FuzPad.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,12 @@ x install FuzPad
 - **最新版本**: `2.05.00` (2025-11-12)
 - **最近提交**: 2026-08-27
 - **Release 含资产**: 1 个
-- **发布时间**: 2025-11-12T14:13:33Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [fuzpad-2.05.00.tar.gz](https://github.com/JianZcar/FuzPad/releases/download/2.05.00/fuzpad-2.05.00.tar.gz) | 2.9 KiB | `native/unknown` |
 
 ## 流行度
 
@@ -36,9 +41,9 @@ x install FuzPad
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 1 | 0 | 1 |
-| 360d | 2025-09-15 | 2 | 1 | 0 | 3 | 2 | 3 |
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 1 | 0 | 0 |
+| 360d | 2025-09-15 | 2 | 1 | 0 | 3 | 2 | 0 |
 
 ## 代码规模
 
@@ -58,4 +63,4 @@ FuzPad 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:27:20Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:07:50Z._

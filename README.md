@@ -22,7 +22,12 @@ x install FuzPad
 - **Latest**: `2.05.00` (2025-11-12)
 - **Last commit**: 2026-08-27
 - **Assets in release**: 1
-- **Published**: 2025-11-12T14:13:33Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [fuzpad-2.05.00.tar.gz](https://github.com/JianZcar/FuzPad/releases/download/2.05.00/fuzpad-2.05.00.tar.gz) | 2.9 KiB | `native/unknown` |
 
 ## Popularity
 
@@ -36,9 +41,9 @@ x install FuzPad
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 1 | 0 | 1 |
-| 360d | 2025-09-15 | 2 | 1 | 0 | 3 | 2 | 3 |
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 1 | 0 | 0 |
+| 360d | 2025-09-15 | 2 | 1 | 0 | 3 | 2 | 0 |
 
 ## Code size
 
@@ -54,8 +59,8 @@ Total: **253** lines of code across **4** files in the top 5 languages.
 Install metadata for FuzPad lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `FuzPad` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/FuzPad.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/FuzPad.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:27:19Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T17:07:49Z._
