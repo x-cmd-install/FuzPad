@@ -12,6 +12,15 @@ A minimalistic note management solution. Powered by fzf
 x install FuzPad
 ```
 
+## Code insight
+
+Total: **253** lines of code across **4** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Bash | 253 | 6 | 29 | 1 |
+| Markdown | 0 | 272 | 100 | 3 |
+
 ## Source
 
 - **Upstream**: <https://github.com/JianZcar/FuzPad>
@@ -22,12 +31,6 @@ x install FuzPad
 - **Latest**: `2.05.00` (2025-11-12)
 - **Last commit**: 2026-08-27
 - **Assets in release**: 1
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [fuzpad-2.05.00.tar.gz](https://github.com/JianZcar/FuzPad/releases/download/2.05.00/fuzpad-2.05.00.tar.gz) | 2.9 KiB | `native/unknown` |
 
 ## Popularity
 
@@ -41,18 +44,18 @@ x install FuzPad
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 360d | 2025-09-15 | 2 | 1 | 0 | 3 | 2 | 0 |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 90d | 2026-06-13 | 0 | 0 | 0 | 1 | 0 | 1 |
+| last180d | 2026-03-15 | 0 | 0 | 0 | 1 | 0 | 1 |
+| 360d | 2025-09-16 | 1 | 1 | 0 | 3 | 2 | 3 |
+| last720d | 2024-09-21 | 20 | 9 | 0 | 17 | 6 | 264 |
 
-## Code size
+## Release assets
 
-Total: **253** lines of code across **4** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Bash | 253 | 6 | 29 | 1 |
-| Markdown | 0 | 272 | 100 | 3 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [fuzpad-2.05.00.tar.gz](https://github.com/JianZcar/FuzPad/releases/download/2.05.00/fuzpad-2.05.00.tar.gz) | 2.9 KiB | `native/unknown` |
 
 ## Improve this data
 
@@ -63,4 +66,4 @@ Install metadata for FuzPad lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T17:07:49Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:02:14Z._
